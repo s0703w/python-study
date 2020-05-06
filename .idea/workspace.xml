@@ -37,8 +37,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.반복문 별 찍기">
-    <configuration name="반복문 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.과제 1-1">
+    <configuration name="과제 1-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 1-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="반복문 구구단" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="과제 1-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문 구구단.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 1-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="반복문 99단" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="과제 1-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문 99단.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 1-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="반복문 별 찍기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="과제 1-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문 별 찍기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/과제 1-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,10 +145,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.반복문 별 찍기" />
-        <item itemvalue="Python.반복문 구구단" />
-        <item itemvalue="Python.반복문 99단" />
-        <item itemvalue="Python.반복문 2" />
+        <item itemvalue="Python.과제 1-1" />
+        <item itemvalue="Python.과제 1-3" />
+        <item itemvalue="Python.과제 1-4" />
+        <item itemvalue="Python.과제 1-2" />
         <item itemvalue="Python.반복문" />
       </list>
     </recent_temporary>
