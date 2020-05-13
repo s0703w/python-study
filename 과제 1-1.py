@@ -2,9 +2,20 @@ x = int(input("X: "))
 y = int(input("Y: "))
 z = int(input("Z: "))
 
-if x > y > z:
-    print(y)
-if z > y > z:
-    print(y)
-elif y > z > x:
-    print(z)
+if x > y:
+    if y >= z:
+        print(y)
+    else:
+        if z > x:
+            print(x)
+        else:
+            print(z)
+else:
+    if x > z:
+        print(x)
+    else:
+        if z > y:
+            print(y)
+        else:
+            print(z)
+
