@@ -25,6 +25,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s0703\Documents\GitHub\python-study\과제" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -37,7 +42,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.과제 2-3">
+  <component name="RunManager" selected="Python.보너스 1">
+    <configuration name="보너스 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보너스 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="과제 2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,27 +148,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="재귀함수 (예)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/재귀함수 (예).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="함수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.보너스 1" />
         <item itemvalue="Python.과제 2-3" />
-        <item itemvalue="Python.과제 2-1" />
         <item itemvalue="Python.과제 2-4" />
         <item itemvalue="Python.과제 2-2" />
-        <item itemvalue="Python.재귀함수 (예)" />
+        <item itemvalue="Python.과제 2-1" />
       </list>
     </recent_temporary>
   </component>

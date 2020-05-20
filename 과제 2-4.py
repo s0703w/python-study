@@ -6,7 +6,7 @@ y = int(input("Y: "))
 
 
 def function(x, o, y):
-    if o == a:
+    if str(o) == "-":
         return x - y
     if o == b:
         return x + y
